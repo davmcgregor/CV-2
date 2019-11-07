@@ -13,7 +13,7 @@ Over the years I've developed a strong habit of finding my own answers for any q
 #### Intensely Focused
 I'm able to focus on a task for a very long period of time; it's not uncommon for me to spend upwards of 13 hours a day working toward a goal.  The bigger picture is always at the back of my mind and it keeps me facing North, even if I have to take a few steps to the left first.  Any logical step forward is enough motivation to take the next one, and there's no better way to gain experience than finishing strong.
 #### Detail-Obsessed
-I love details and syntax. Learning elegant ways to achieve complex logic – and sometimes doing it the long way as proof of concept – makes programming a joy.  Excellent design is meant to go unnoticed; the ineffable feeling that comes with implementing sleek and intuitive concepts, the kind that humanizes an idea and traces the contours of user intent, is worth the effort every time.
+I love details and syntax. Learning elegant ways to achieve complex logic – and sometimes doing it the long way as proof of concept – makes programming a joy.  Excellent design is meant to go unnoticed; the ineffable feeling that comes with implementing sleek and intuitive concepts, the kind that humanizes an idea and traces the contours of user expectation, is worth the effort every time.
 #### Ambitious
 Almost to a flaw, I pride myself in giving my all to any project I work on.  I love being surrounded with people who push me to be greatest version of myself and have a deep respect for those who have spent time honing their craft.  Every contribution to an idea is an opportunity for growth, so even when my contribution to a project is a small one, I need to make sure it stands out.
 #### An Ability to Visualize Anything
