@@ -15,7 +15,7 @@ I'm able to focus on a task for a very long period of time; it's not uncommon fo
 #### Detail-Obsessed
 I love details and syntax. Learning elegant ways to achieve complex logic – and sometimes doing it the long way as proof of concept – makes programming a joy.  Excellent design is meant to go unnoticed; the ineffable feeling that comes with implementing sleek and intuitive concepts, the kind that humanizes an idea and traces the contours of user intent is worth the effort every time.
 #### Ambitious
-Almost to a flaw, I pride myself in giving my all to any project I find myself working on.  I love being surrounded with people who push me to be greatest version of myself and have a deep respect for those who have spent time honing their craft.  Every contribution to an idea is an opportunity for growth, so even when my contribution to a project is a small one, I need to make sure it stands out.
+Almost to a flaw, I pride myself in giving my all to any project I work on.  I love being surrounded with people who push me to be greatest version of myself and have a deep respect for those who have spent time honing their craft.  Every contribution to an idea is an opportunity for growth, so even when my contribution to a project is a small one, I need to make sure it stands out.
 #### An Ability to Visualize Anything
 I'm a pro-actively visual learner with tonnes of experience working with brand-new problems and a penchant for lateral thinking.  Once I understand the fundamentals of a concept, handling its nuance is relatively light work.  That being said, I know better than to underestimate the complexity of any given task and give each new concept the time it needs.  If anything is worth <i>knowing</i>, it's worth knowing well.
 ## Dev Projects
