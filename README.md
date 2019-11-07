@@ -23,7 +23,7 @@ I'm a pro-actively visual learner with tonnes of experience working with brand-n
 | :------------     | :-------------         | :------------------------- | :---------------------- | :--------------------- | 
 | First Project     | First Description      | [First Link](#firstlink)   | First Stack             | First Test Stack       | 
 | Second Project    | Second Description     | [Second Link](#secondlink) | Second Stack            | Second Test Stack      | 
-| Third Projct      | Third Description      | [Third Link](#thirdlink)   | Third Stack             | Third Test Stack       | 
+| Third Project      | Third Description      | [Third Link](#thirdlink)   | Third Stack             | Third Test Stack       | 
 ## Education
 #### Makers Academy (October – January 2019)
 16-week intensive bootcamp<br/>
