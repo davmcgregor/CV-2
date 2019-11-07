@@ -9,7 +9,7 @@ Mastering the tools used to <i>make</i> the tools that empower creators to be cr
 <br/><br/>
 ## Skills
 #### Autodidactic
-Over the years I've developed a strong habit of finding answers for any questions I may have on the road to learning a new skill.  <i>Any</i> skill.  One thing I love about the world of software is I'm often surrounded with people who feel the same way.  The internet has all the answers – the skill lies in knowing the right questions to ask, breaking down the problem or idea to their first principles and building a picture of the solution from the view between the cracks in the problem.  My favourite game.
+Over the years I've developed a strong habit of finding my own answers for any questions I may have on the road to learning a new skill.  <i>Any</i> skill.  One thing I love about the world of software is I'm often surrounded with people who feel the same way.  The internet has all the answers – the skill lies in knowing the right questions to ask, breaking down the problem or idea to their first principles and building a picture of the solution from the view between the cracks in the problem.  My favourite game.
 #### Intensely Focused
 I'm able to focus on a task for a very long period of time; it's not uncommon for me to spend upwards of 13 hours a day working toward a goal.  The bigger picture is always at the back of my mind and it keeps me facing North, even if I have to take a few steps to the left first.  Any logical step forward is enough motivation to take next one, and there's no better way to gain experience than finishing strong.
 #### Detail-Obsessed
