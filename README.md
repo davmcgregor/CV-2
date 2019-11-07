@@ -25,18 +25,20 @@ I'm a visual learner with a lot of experience working with brand-new problems an
 | Second Project    | Second Description     | [Second Link](#secondlink) | Second Stack            | Second Test Stack      | 
 | Third Projct      | Third Description      | [Third Link](#thirdlink)   | Third Stack             | Third Test Stack       | 
 ## Education
-#### Makers Academy(October – January 2019)
+#### Makers Academy (October – January 2019)
 16-week intensive bootcamp<br/>
 <i>Object-Oriented Programming</i><br/>
 <i>Test Driven Development</i><br/>
 <i>Ruby, RSpec, Rails, JavaScript, Node.js, React</i><br/>
-#### University of Liverpool(September 2012 - June 2015)
+#### University of Liverpool (September 2012 - June 2015)
 <i>BA Architecture</i>
-#### Christ The King Sixth Form College(September 2010 - June 2012)
+#### Christ The King Sixth Form College (September 2010 - June 2012)
 <i>Maths(A*), Graphic Design(A), English Lit + Lang(A/B), Business(B), Critical Thinking(AS-level)</i>
 ## Experience
-#### Universal Music Group(2015 - 2019)
-<i>Signee</i>
+#### Universal Music Group (2015 - 2019)
+<i>Signee</i><br/><br/>
+I spent 5 years touring the UK and Europe, managed to secure a supporting opportunity to perform at the O2 Arena in London as well as fourteen other Arenas across the UK, secured spots at Glastonbury(2017, 2019), shows in New York and short stints in Los Angeles.<br/><br/>
+Such a high-pressure environment taught me the value of teamwork, the virtue of striving for excellence in the face of tense competition, the delicate balance of qualities necessary to serve as an effective leader of a small team and the importance of fostering authentic relationships.  It also did wonders for my confidence.
 ## Other Interests
 #### Podcasting
 I have a self-produced, series-based podcast called <i>THE ART OF DFFRNCE</i> – an opportunity to both utilise my experience in audio production and assuage my fascination with creativity as a concept.  I've completed one season and will be picking up with a new one early 2020; as a theme I feel inspired to draw parallels between the worlds of technophilia and audiophilia – so far I've found several!
