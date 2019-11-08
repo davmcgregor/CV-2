@@ -17,7 +17,7 @@ I love details and syntax. Learning elegant ways to achieve complex logic – an
 #### Ambitious
 Almost to a flaw, I pride myself in giving my all to any project I work on.  I love being surrounded with people who push me to be greatest version of myself and have a deep respect for those who have spent time honing their craft.  Every contribution to an idea is an opportunity for growth, so even when my contribution to a project is a small one, I need to make sure it stands out.
 #### An Ability to Visualize Anything
-I'm a pro-actively visual learner with tonnes of experience working with brand-new problems and a penchant for lateral thinking.  Once I understand the fundamentals of a concept, handling its nuance is relatively light work.  That being said, I know better than to underestimate the complexity of any given task and give each new concept the time and attention it needs.  If anything is worth <i>knowing</i>, it's worth knowing well.
+I'm a pro-actively visual learner with tonnes of experience working with brand-new problems and a penchant for lateral thinking.  Once I understand the fundamentals of a concept, I have an easier time getting to grips with its nuance.  That being said, I know better than to underestimate the complexity of any given task and give each new concept the time and attention it needs.  If anything is worth <i>knowing</i>, it's worth knowing well.
 ## Dev Projects
 | Project           | Description            | Code/Demo links            | Technologies used       | Testing Technologies   | 
 | :------------     | :-------------         | :------------------------- | :---------------------- | :--------------------- | 
