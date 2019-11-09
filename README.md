@@ -44,4 +44,5 @@ Such a high-pressure environment taught me the value of teamwork, the virtue of 
 I have a self-produced, series-based podcast called <i>THE ART OF DFFRNCE</i> – an opportunity to both utilise my experience in audio production and assuage my fascination with creativity as a concept.  I've completed one season and will be picking up with a new one early 2020; as a theme I feel inspired to draw parallels between the worlds of technophilia and audiophilia – so far I've found several!
 ## Contact
 <b>Instagram:</b> (???)<br/>
+Email: ???@hotmail.co.uk
 <b>Codewars:</b> http://www.codewars.com/users/samfolo<br/>
