@@ -5,7 +5,7 @@ A strong interest in technology for as long as I can remember, I've found my jou
 <br/><br/>
 From teaching myself several pieces of audio production software in my early teens (skills which have taken me on adventures all over the world), to the plethora of visual design suites I regularly use to add a sheen to any and all projects I'm involved in, technical creativity has always been my prime focus – but realising that all the programs I've had the privilege to learn up to this point couldn't exist without a team of software developers presented a frontier I've never wanted to take on more.
 <br/><br/>
-Mastering the tools used to <i>make</i> the tools that empower creators to be creative; the opportunity to work on ideas that spark ideas; to help business owners with eyes in the sky achieve once-insurmountable tasks and to simplify life for all are just a few things which keep me driven on a daliy basis.  I'm looking forward to bringing that same drive, my creative confidence and all my best ideas to a team that feels the same way.
+Mastering the tools used to <i>make</i> the tools which empower creators to be creative; the opportunity to work on ideas that spark ideas; to help business owners with eyes in the sky achieve once-insurmountable tasks and to simplify life for all are just a few things which keep me driven on a daliy basis.  I'm looking forward to bringing that same drive, my creative confidence and all my best ideas to a team that feels the same way.
 <br/><br/>
 ## Skills
 #### Autodidactic
