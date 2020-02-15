@@ -21,7 +21,7 @@ I'm a pro-actively visual learner with tonnes of experience working with brand-n
 ## Dev Projects
 | Project           | Description            | Code/Demo links            | Technologies used       | Testing Technologies   | 
 | :------------     | :-------------         | :------------------------- | :---------------------- | :--------------------- | 
-| First Project     | First Description      | [First Link](#firstlink)   | First Stack             | First Test Stack       | 
+| N.E.O.N     | A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag      | [First Link](https://github.com/even13/game_of_life)   | Javascript, NodeJS, ReactJS             | Jest, Enzyme       | 
 | Second Project    | Second Description     | [Second Link](#secondlink) | Second Stack            | Second Test Stack      | 
 | Third Project      | Third Description      | [Third Link](#thirdlink)   | Third Stack             | Third Test Stack       | 
 ## Education
