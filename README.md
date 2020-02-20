@@ -43,16 +43,28 @@ I take immense pride in giving my all to any project I work on.  I love being su
 I'm a pro-actively visual learner with tonnes of experience working with brand-new problems and a penchant for lateral thinking.  Once I understand the fundamentals of a concept, I have an easier time getting to grips with its nuance.  That being said, I know better than to underestimate the complexity of any given task and give each new concept the time and attention it needs.  If anything is worth <i>knowing</i>, it's worth knowing well.
 
 ## Education
+
+<img src="images/makers-logo.png" width="200px"/>
+
 #### Makers Academy (October – January 2019)
 16-week intensive bootcamp<br/>
 <i>Object-Oriented Programming</i><br/>
 <i>Test Driven Development</i><br/>
 <i>Ruby, RSpec, Rails, JavaScript, Node.js, React</i><br/>
+
+<img src="images/uol-logo.jpg" width="200px"/>
+
 #### University of Liverpool (September 2012 - June 2015)
 <i>BA Architecture</i>
+
+<img src="images/ctk-logo.png" width="200px"/>
+
 #### Christ The King Sixth Form College (September 2010 - June 2012)
 <i>Maths(A*), Graphic Design(A), English Lit + Lang(A/B), Business(B), Critical Thinking(AS-level)</i>
 ## Experience
+
+<img src="images/umg-logo.png" width="200px"/>
+
 #### Universal Music Group (2015 - 2019)
 <i>Signee</i><br/><br/>
 I spent 5 years touring the UK and Europe, managed to secure a supporting opportunity to perform at the O2 Arena in London as well as fourteen other Arenas across the UK, secured spots at Glastonbury <i>(2017, 2019)</i>, shows in New York and short stints in Los Angeles.<br/><br/>
