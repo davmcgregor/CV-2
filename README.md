@@ -1,4 +1,3 @@
-<div style="background-color: #ccc; border-radius: 20px; padding: 5px 10px;">
 <h1 align="center"> Sam Folorunsho </h1>
 
 <div align="center">
@@ -9,7 +8,7 @@
 
 <div align="center">
 
-[Skills](#skills) | [Dev Projects](#dev-projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests) | [Contact](#contact) |
+[Skills](#skills) | [Dev Projects](#dev-projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
 </div>
 
@@ -61,4 +60,3 @@ Such a high-pressure environment taught me the value of teamwork, the virtue of 
 I have a self-produced, series-based podcast called <i>THE ART OF DFFRNCE</i> – an opportunity to both utilise my experience in audio production and assuage my fascination with creativity as a concept.  I've completed one season and will be picking up with a new one early 2020; as a theme I feel inspired to draw parallels between the worlds of technophilia and audiophilia – so far I've found several!
 
 <b>Love doing a few Codewars katas:</b> http://www.codewars.com/users/samfolo<br/>
-</div>
