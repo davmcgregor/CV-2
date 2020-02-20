@@ -22,7 +22,7 @@ I'm a pro-actively visual learner with tonnes of experience working with brand-n
 | Project           | Description            | Code/Demo links            | Technologies used       | Testing Technologies   | 
 | :------------     | :-------------         | :------------------------- | :---------------------- | :--------------------- | 
 | N.E.O.N     | A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project)      | [Visit the repo](https://github.com/even13/game_of_life)   | Javascript, NodeJS, ReactJS             | Jest, Enzyme       | 
-| Second Project    | Second Description     | [Second Link](#secondlink) | Second Stack            | Second Test Stack      | 
+| Pinstagram    | A fullstack social media clone, demonstrating the majority of the core functionality of Instagram     | [Visit the Repo](https://github.com/samfolo/instagram-challenge) | Ruby on Rails, ActiveRecord, ActiveStorage            | RSpec, Capybara      | 
 | Third Project      | Third Description      | [Third Link](#thirdlink)   | Third Stack             | Third Test Stack       | 
 ## Education
 #### Makers Academy (October – January 2019)
