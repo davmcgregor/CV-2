@@ -43,6 +43,7 @@ I take immense pride in giving my all to any project I work on.  I love being su
 I'm a pro-actively visual learner with tonnes of experience working with brand-new problems and a penchant for lateral thinking.  Once I understand the fundamentals of a concept, I have an easier time getting to grips with its nuance.  That being said, I know better than to underestimate the complexity of any given task and give each new concept the time and attention it needs.  If anything is worth <i>knowing</i>, it's worth knowing well.
 
 ## Education
+<br/>
 
 <img src="images/makers-logo.png" width="200px"/>
 
@@ -52,12 +53,8 @@ I'm a pro-actively visual learner with tonnes of experience working with brand-n
 <i>Test Driven Development</i><br/>
 <i>Ruby, RSpec, Rails, JavaScript, Node.js, React</i><br/>
 
-<img src="images/uol-logo.jpg" width="200px"/>
-
 #### University of Liverpool (September 2012 - June 2015)
-<i>BA Architecture</i>
-
-<img src="images/ctk-logo.png" width="200px"/>
+<i>BA Architecture</i><br/>
 
 #### Christ The King Sixth Form College (September 2010 - June 2012)
 <i>Maths(A*), Graphic Design(A), English Lit + Lang(A/B), Business(B), Critical Thinking(AS-level)</i>
