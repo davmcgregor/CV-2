@@ -1,12 +1,34 @@
-# Sam Folorunsho
+<div style="background-color: #ccc; border-radius: 20px; padding: 5px 10px;">
+<h1 align="center"> Sam Folorunsho </h1>
+
+<div align="center">
+  <a>
+    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="15" height="42" width="42" />
+  </a>
+</div>
+
+<div align="center">
+
 [Skills](#skills) | [Dev Projects](#dev-projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests) | [Contact](#contact) |
-<br/><br/>
+
+</div>
+
+<br/>
 A strong interest in technology for as long as I can remember, I've found my journey into world of code to be a major catalyst for growth on all sides.  Creatively, technically, intellectually and even socially, every moment I spend learning and applying new knowledge has me looking forward to the next one.  Today, I'm a full stack developer specialising in front end.
 <br/><br/>
 From teaching myself several pieces of audio production software in my early teens (skills which have taken me on adventures all over the world), to the plethora of visual design suites I regularly use to add a sheen to any and all projects I'm involved in, technical creativity has always been my prime focus – but realising that all the programs I've had the privilege to learn up to this point couldn't exist without a team of software developers presented a frontier I've never wanted to take on more.
 <br/><br/>
 Mastering the tools used to <i>make</i> the tools which empower creators to be creative; the opportunity to work on ideas that spark ideas; to help business owners with eyes in the sky achieve once-insurmountable tasks and to simplify life for all are just a few things which keep me driven on a daily basis.  I'm looking forward to bringing that same drive, my creative confidence and all my best ideas to a team that feels the same way.
 <br/><br/>
+
+## Dev Projects
+| Project           | Description            | Timeframe                  | Development, Testing       | CI/CD, Coverage, Quality   | 
+| :------------     | :-------------         | :------------------------- | :------------------------- | :--------------------- | 
+| [N.E.O.N](https://github.com/even13/game_of_life)           | A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project) | 10 days | Javascript, NodeJS, ReactJS, Jest, Enzyme             | ESLint, Code Climate, Travis CI, Heroku       | 
+| [Pinstagram](https://github.com/samfolo/instagram-challenge)       | A fullstack social media clone, demonstrating the majority of the core functionality of Instagram   | 2 days | Ruby on Rails, ActiveRecord, RSpec, Capybara, ActiveStorage            | Rubocop, Simplecov      | 
+| [Third Project](#)      | Third Description      | # days | Third Stack             | Third Test Stack       | 
+<br/>
+
 ## Skills
 #### Autodidactic
 Over the years I've developed a strong habit of finding my own answers for any questions I may have on the road to learning a new skill.  <i>Any</i> skill.  One thing I love about the world of software is I'm often surrounded with people who share this sentiment.  The internet has all the answers – the skill lies in knowing the right questions to ask, breaking down the problem or idea to its first principles and building a picture of the solution from the view between the cracks.  My favourite game.
@@ -18,12 +40,7 @@ I love details and syntax. Learning elegant ways to achieve complex logic – an
 I take immense pride in giving my all to any project I work on.  I love being surrounded with people who push me to be greatest version of myself and have a deep respect for those who have spent time honing their craft.  Every contribution to an idea is an opportunity for growth, so even when my contribution to a project is a small one, I need to make sure it stands out.
 #### An Ability to Visualize Anything
 I'm a pro-actively visual learner with tonnes of experience working with brand-new problems and a penchant for lateral thinking.  Once I understand the fundamentals of a concept, I have an easier time getting to grips with its nuance.  That being said, I know better than to underestimate the complexity of any given task and give each new concept the time and attention it needs.  If anything is worth <i>knowing</i>, it's worth knowing well.
-## Dev Projects
-| Project           | Description            | Code/Demo links            | Technologies used       | Testing Technologies   | 
-| :------------     | :-------------         | :------------------------- | :---------------------- | :--------------------- | 
-| N.E.O.N     | A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project)      | [Visit the repo](https://github.com/even13/game_of_life)   | Javascript, NodeJS, ReactJS             | Jest, Enzyme       | 
-| Pinstagram    | A fullstack social media clone, demonstrating the majority of the core functionality of Instagram     | [Visit the Repo](https://github.com/samfolo/instagram-challenge) | Ruby on Rails, ActiveRecord, ActiveStorage            | RSpec, Capybara      | 
-| Third Project      | Third Description      | [Third Link](#thirdlink)   | Third Stack             | Third Test Stack       | 
+
 ## Education
 #### Makers Academy (October – January 2019)
 16-week intensive bootcamp<br/>
@@ -42,6 +59,6 @@ Such a high-pressure environment taught me the value of teamwork, the virtue of 
 ## Other Interests
 #### Podcasting
 I have a self-produced, series-based podcast called <i>THE ART OF DFFRNCE</i> – an opportunity to both utilise my experience in audio production and assuage my fascination with creativity as a concept.  I've completed one season and will be picking up with a new one early 2020; as a theme I feel inspired to draw parallels between the worlds of technophilia and audiophilia – so far I've found several!
-## Contact
-<b>Email:</b> ???@hotmail.co.uk<br/>
-<b>Codewars:</b> http://www.codewars.com/users/samfolo<br/>
+
+<b>Love doing a few Codewars katas:</b> http://www.codewars.com/users/samfolo<br/>
+</div>
