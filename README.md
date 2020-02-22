@@ -4,8 +4,13 @@
 <a href="https://www.linkedin.com/in/sam-folorunsho-b943b9190/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-
 <div align="center">
+
+<a href="https://sourcerer.io/samfolo"><img src="https://img.shields.io/badge/Ruby-564%20commits-a29ead.svg" alt=""></a>
+<a href="https://sourcerer.io/samfolo"><img src="https://img.shields.io/badge/JavaScript-500%20commits-a29ead.svg" alt=""></a>
+<a href="https://sourcerer.io/samfolo"><img src="https://img.shields.io/badge/CSS-492%20commits-a29ead.svg" alt=""></a>
+<a href="https://sourcerer.io/samfolo"><img src="https://img.shields.io/badge/HTML-337%20commits-a29ead.svg" alt=""></a>
+<a href="https://sourcerer.io/samfolo"><img src="https://img.shields.io/badge/SQL-19%20commits-a29ead.svg" alt=""></a>
 
 [Skills](#skills) | [Dev Projects](#dev-projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
