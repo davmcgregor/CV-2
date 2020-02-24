@@ -24,11 +24,11 @@ Mastering the tools used to <i>make</i> the tools which empower creators to be c
 <br/><br/>
 
 ## Dev Projects
-| Project           | Description            | Timeframe                  | Development, Testing       | CI/CD, Coverage, Quality   | 
-| :------------     | :-------------         | :------------------------- | :------------------------- | :--------------------- | 
-| [N.E.O.N](https://github.com/even13/game_of_life)           | A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project) | 10 days | Javascript, NodeJS, ReactJS, Jest, Enzyme             | ESLint, Code Climate, Travis CI, Heroku       | 
-| [Pinstagram](https://github.com/samfolo/instagram-challenge)       | A fullstack social media clone, demonstrating the majority of the core functionality of Instagram   | 2 days | Ruby on Rails, ActiveRecord, RSpec, Capybara, ActiveStorage            | Rubocop, Simplecov      | 
-| [Bank Tech Test](https://github.com/samfolo/bank_tech_test)      | Demonstrating the ability to take an anecdotal brief, break it down into actionable steps and execute a solution in clean, DRY code      | 3 days | Ruby, RSpec             | Rubocop, Simplecov       | 
+| Project           | Info            |
+| :------------     | :-------------         |
+| [N.E.O.N](https://github.com/even13/game_of_life) <a href="https://github.com/even13/game_of_life"><div align="center"><img src="images/N.E.O.N-gameplay-2.gif" width="500" /></div></a>           | <h3>Description</h3>A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project)<br/>Timeframe: 10 days<h3>Development/Testing</h3>`Javascript`, `NodeJS`, `ReactJS`, `Jest`, `Enzyme`<h3>CI/CD, Coverage, Quality</h3>`ESLint`, `Code Climate`, `Travis CI`, `Heroku` |
+| [Pinstagram](https://github.com/samfolo/instagram-challenge) <a href="https://github.com/samfolo/instagram-challenge"><div align="center"><img src="images/Pinstagram-demo.gif" height="330" hspace="5" />  <img src="images/Pinstagram-demo-2.gif" height="330" hspace="5" /> <img src="images/Pinstagram-demo-3.gif" height="330" hspace="5" /></div></a>        | <h3>Description</h3>A fullstack social media clone, demonstrating the majority of the core functionality of Instagram<br />Timeframe: 2 days<h3>Development/Testing</h3>`Ruby on Rails`, `ActiveRecord`, `RSpec`, `Capybara`, `ActiveStorage`<h3>CI/CD, Coverage, Quality</h3>`Rubocop`, `Simplecov`   |
+| [Bank Tech Test](https://github.com/samfolo/bank_tech_test)      | <h3>Description</h3>Demonstrating the ability to take an anecdotal brief, break it down into actionable steps and execute a solution in clean, DRY code<br />Timeframe: 3 days<h3>Development/Testing</h3>`Ruby`, `RSpec`<h3>CI/CD, Coverage, Quality</h3>`Rubocop`, `Simplecov`      |
 <br/>
 
 ## Skills
