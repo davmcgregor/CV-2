@@ -75,4 +75,4 @@ I have a self-produced, series-based podcast called <i>THE ART OF DFFRNCE</i> â€
 
 <b>Love doing a few Codewars katas, too:</b>
 <br /><br />
-<img src="https://www.codewars.com/users/samfolo/badges/large" />
+<a href="https://www.codewars.com/users/samfolo"><img src="https://www.codewars.com/users/samfolo/badges/large" /></a>
