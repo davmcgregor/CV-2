@@ -26,9 +26,9 @@ Mastering the tools used to <i>make</i> the tools which empower creators to be c
 ## Dev Projects
 | Project           | Info            |
 | :------------:     | :-------------         |
-| [N.E.O.N](https://github.com/even13/game_of_life)<br /><br /> <a href="https://github.com/even13/game_of_life"><div align="center"><img src="images/N.E.O.N-gameplay-2.gif" width="500" /></div></a>           | <h4>Description</h4> A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project)<br/><br/>Timeframe: 10 days<h4>Development/Testing</h4>Javascript, NodeJS, ReactJS, Jest, Enzyme<h4>CI/CD, Coverage, Quality</h4>ESLint, Code Climate, Travis CI, Heroku, Jest coverage |
+| [N.E.O.N](https://github.com/even13/game_of_life)<br /><br /> <a href="https://github.com/even13/game_of_life"><div align="center"><img src="images/N.E.O.N-gameplay-2.gif" width="600" /></div></a>           | <h4>Description</h4> A cellular automata simulation, keeping track of two clusters of cells and stylised as a game of capture the flag (group project)<br/><br/>Timeframe: 10 days<h4>Development/Testing</h4>Javascript, NodeJS, ReactJS, Jest, Enzyme<h4>CI/CD, Coverage, Quality</h4>ESLint, Code Climate, Travis CI, Heroku |
 | [Pinstagram](https://github.com/samfolo/instagram-challenge)<br /><br /> <a href="https://github.com/samfolo/instagram-challenge"><div align="center"><img src="images/Pinstagram-demo-2.gif" height="330" hspace="5" /></div></a>        | <h4>Description</h4>A fullstack social media clone, demonstrating the majority of the core functionality of Instagram<br /><br/>Timeframe: 2 days<h4>Development/Testing</h4>Ruby on Rails, ActiveRecord, RSpec, Capybara, ActiveStorage<h4>CI/CD, Coverage, Quality</h4>Rubocop, Simplecov   |
-| [Sudoku](https://github.com/samfolo/sudoku)<br /><br /> <a href="https://github.com/samfolo/sudoku"><div align="center"><img src="images/Sudoku-gameplay.gif" width="500" /></div></a>      | <h4>Description</h4>A personal project: front-end application where users can choose to play uniquely generated games of sudoku at one of four levels of difficulty<br /><br/>Timeframe: 3 days<h4>Development/Testing</h4>Javascript, NodeJS, ReactJS, Jest, Enzyme<h4>CI/CD, Coverage, Quality</h4>Jest coverage      |
+| [Sudoku](https://github.com/samfolo/sudoku)<br /><br /> <a href="https://github.com/samfolo/sudoku"><div align="center"><img src="images/Sudoku-gameplay.gif" width="600" /></div></a>      | <h4>Description</h4>A personal project: front-end application where users can choose to play uniquely generated games of sudoku at one of four levels of difficulty<br /><br/>Timeframe: 3 days<h4>Development/Testing</h4>Javascript, NodeJS, ReactJS, Jest, Enzyme<h4>CI/CD, Coverage, Quality</h4>Jest coverage      |
 <br/>
 
 ## Skills
@@ -75,4 +75,4 @@ I have a self-produced, series-based podcast called <i>THE ART OF DFFRNCE</i> â€
 
 <b>Love doing a few Codewars katas, too:</b>
 <br /><br />
-<img src="https://www.codewars.com/users/samfolo/badges/large" />
+<a href="https://www.codewars.com/users/samfolo"><img src="https://www.codewars.com/users/samfolo/badges/large" /></a>
