@@ -16,7 +16,7 @@
 
 </div>
 
-A strong interest in technology for as long as I can remember, I've found my journey into world of code to be a major catalyst for growth on all sides.  Creatively, technically, intellectually and even socially, every moment I spend learning and applying new knowledge has me looking forward to the next one.  Today, I'm a full stack developer specialising in front end.
+A strong interest in technology for as long as I can remember, I've found my journey into the world of code to be a major catalyst for growth on all sides.  Creatively, technically, intellectually and even socially, every moment I spend learning and applying new knowledge has me looking forward to the next one.  Today, I'm a full stack developer specialising in front end.
 <br/><br/>
 From teaching myself several pieces of audio production software in my early teens (skills which have taken me on adventures all over the world), to the plethora of visual design suites I regularly use to add a sheen to any and all projects I'm involved in, technical creativity has always been my prime focus – but realising that all the programs I've had the privilege to learn up to this point couldn't exist without a team of software developers presented a frontier I've never wanted to take on more.
 <br/><br/>
